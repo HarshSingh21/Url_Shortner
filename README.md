@@ -1,6 +1,6 @@
 ﻿# Url_Shortner
  <br>
- ![CHEESE!](F:\project\urlshortner\red.png)
+ ![CHEESE!](red.png)
  
 Depenedencies Url = "https://start.spring.io/"
 <br>
