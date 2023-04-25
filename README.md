@@ -2,6 +2,7 @@
  <br>
  
 Depenedencies Url = "https://start.spring.io/"
+<br>
 Step 1 : Add the following Gradle dependencies to create a project.
        1. Spring Boot Starter Web
        2. Spring Boot Starter Thymeleaf<br>
