@@ -24,7 +24,7 @@ Step 8: Created a Rest Controller and write a /shortenurl REST API to create a s
 
 Step 9: Write a setShortURL() method to create a short URL by using random chars and putting shortURL in the HashMap.
 
-Step 10: Write a Redirect Controller REST API to redirect the request to FULLURL by using short URL from the HashMap.
+Step 10: Write a Redirect Controller REST API to redirect the request to FULL URL by using short URL from the HashMap.
 
 
 
